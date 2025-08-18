@@ -1,0 +1,13 @@
+body {
+  font-family: Georgia, serif;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+}
+
+#logo-image {
+  width: 30px;
+  margin-right: 10px;
+}
+
+/* Add your own custom styles here */
