@@ -11,3 +11,25 @@ body {
 }
 
 /* Add your own custom styles here */
+
+
+.bookCard {
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+}
+
+.bookCover {
+  width: 150px;
+  height: auto;
+  border-radius: 4px;
+  object-fit: cover;
+}
+
+nav {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  background-color:#f5f5f5;
+}
+
